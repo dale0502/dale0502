@@ -1,6 +1,6 @@
 # HI, I'm dale :smile:
 
-* :pushpin:  | 財務體系出身,畢業於高雄應用科技大學,目前正在自學的程式菜鳥,請多多指教 :smile:  :smile:
+* :pushpin:  | 財務體系出身,畢業於高雄應用科技大學會計系,目前正在自學的程式菜鳥,請多多指教 :smile:  :smile:
 * :mailbox:  | jing8923@gmail.com
 
 *** 
