@@ -1,6 +1,6 @@
 # HI, I'm dale :smile:
 
-* :pushpin:  | 財務體系出身,畢業於高雄應用科技大學會計系,目前正在自學的程式菜鳥,請多多指教 :smile:  :smile:
+* :pushpin:  | 財務體系出身,畢業於高雄應用科技大學會計系,目前任職遊戲產業擔任PHP後端工程師一職,請多多指教 :smile:  :smile:
 * 學習筆記.  | (https://vocus.cc/user/@dale)
 * 
 
